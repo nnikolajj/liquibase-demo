@@ -22,3 +22,4 @@ so konnte ich nicht alles zuende testen und weiss nicht 100% ob alles richtig is
 
 ## Selbsteinschätzung
 Ich würde mir eine 4.75 geben weil ich einiges erreicht hatte aber nicht alles.
+Zwar habe ich 7 nicht geschafft, weil ich Docker nicht starten konnte um Daten reinzuladen, aber dafür 6 und 9.
